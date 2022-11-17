@@ -5,7 +5,7 @@ Single-page application.
 How to run the app:
 1. Download and extract ZIP.
 2. Open downloaded folder with Visual Studio Code.
-3. Type "node server.js" in terminal in Visual Studio Code.
+3. Type "node server.js" in terminal in Visual Studio Code or in CMD.
 4. Open html file with live server in Visual Studio Code.
 5. Try the app.
 
